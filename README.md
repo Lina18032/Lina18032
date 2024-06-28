@@ -22,6 +22,7 @@
     <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/firebase-original-wordmark.svg" alt="firebase" width="40" height="40"/>
 </p>
 
 # 📊 GitHub Stats:
